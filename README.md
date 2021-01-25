@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **Sudoku App and programming small R2D2 raspberry pi robot**
 
-- 🌱 I’m currently learning **Artificial Intelligence and Web Development**
+- 🌱 Relevant coursework: **Software Engineering, Data Structures, Algorithms, Systems, Artificial Intelligence and Web Development**
+
+- 🌱 I’m currently learning **Operating Systems and Databases**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bazuevad](https://github.com/bazuevad)
 
