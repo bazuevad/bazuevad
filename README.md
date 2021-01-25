@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bazuevad](https://github.com/bazuevad)
 
-- 💬 Ask me about **react,Java, object-oriented programming, data structures and algorithms**
+- 💬 Ask me about **React,Java, object-oriented programming, data structures and algorithms, databases, operating systems**
 
 ## Contact Me
 
