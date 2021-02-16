@@ -13,7 +13,7 @@
 
 ## Contact Me
 
-- 📫 How to reach me **bazuevad@seas.upenn.edu**
+- 📫  How to reach me **bazuevad@seas.upenn.edu**
 
 ## My Skills
 
