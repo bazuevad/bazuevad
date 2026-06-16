@@ -1,25 +1,35 @@
 <h1 align="center">Hi 👋, I'm Daria</h1>
-<h3 align="center">CS masters student at University of Pennsylvania and aspiring Software Engineer</h3>
+<h3 align="center">Senior Software Engineer · Generative AI & Agentic Systems</h3>
+<p align="center">I build production LLM-powered tools that take products from 0 to 1.</p>
 
-- 🔭 I’m currently working on **Sudoku App and programming small R2D2 raspberry pi robot**
+---
 
-- 🌱 Relevant coursework: **Software Engineering, Data Structures, Algorithms, Systems, Artificial Intelligence and Web Development**
+- 🤖 I specialize in **agentic AI systems and LLM developer tools** — designed and shipped AI tooling running on **thousands of PRs daily** (70% suggestion-acceptance rate, 63% faster time-to-merge, 99.9% uptime).
+- ⚡ 5+ years owning systems end-to-end, from early-stage startups to enterprise scale.
+- 🔭 Building on the side: **an AI-powered flashcard iPhone app** — snap a photo of a word list and it generates a spaced-repetition study deck. React Native + AI vision.
+- 🎓 **MS in Computer & Information Technology**, University of Pennsylvania (AI/ML focus).
 
-- 🌱 I’m currently learning **Operating Systems and Databases**
+## 🚀 Featured Projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/bazuevad](https://github.com/bazuevad)
 
-- 💬 Ask me about **React,Java, object-oriented programming, data structures and algorithms, databases, operating systems**
+➡️ See more on my [GitHub profile](https://github.com/bazuevad).
 
-## Contact Me
+## 🛠️ Skills
 
-- 📫  How to reach me **bazuevad@seas.upenn.edu**
+**AI / LLM:** LLM Applications • Agentic AI Systems • RAG • Prompt Engineering • AI Developer Tools • Anthropic & OpenAI APIs • Claude Code • Cursor • GitHub Copilot  
+**Languages:** Python • Java • JavaScript • SQL • C • HTML/CSS  
+**Cloud & Infra:** AWS • Kubernetes • Docker • Jenkins • CI/CD • Linux • Git/GitHub  
+**Backend & Data:** REST APIs • Node.js • React • MongoDB  
 
-## My Skills
+## 📫 Contact Me
 
-Java, Python, C, C++, SQL, React, Node.js, Express.js, CSS, HTML, JavaScript, Selenium, Jest, Travis, MongoDB, Heroku, AWS
+- ✉️ Email: **bazuevadaria@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/dariabazueva](https://linkedin.com/in/dariabazueva)
+- 📍 Jersey City, NJ
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazuevad&layout=compact&hide=html" alt="bazuevad" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bazuevad&show_icons=true" alt="bazuevad" /></p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazuevad&layout=compact&hide=html" alt="Daria's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bazuevad&show_icons=true" alt="Daria's GitHub stats" />
+</p>
