@@ -27,7 +27,3 @@ See more on my [GitHub profile](https://github.com/bazuevad).
 - Location: Jersey City, NJ
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazuevad&layout=compact&hide=html" alt="Daria's top languages" />
-</p>
