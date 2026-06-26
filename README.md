@@ -30,5 +30,4 @@ See more on my [GitHub profile](https://github.com/bazuevad).
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazuevad&layout=compact&hide=html" alt="Daria's top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bazuevad&show_icons=true" alt="Daria's GitHub stats" />
 </p>
